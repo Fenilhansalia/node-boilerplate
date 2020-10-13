@@ -1,0 +1,23 @@
+{
+	"registerValidationEmailEmail": "Please enter valid email address.",
+	"registerValidationFirstNameMin": "Minimum 3 characters required.",
+	"registerValidationLastNameMin": "Minimum 3 characters required.",
+	"registerValidationFirstNameMax": "Maximum 15 characters allowed.",
+	"registerValidationLastNameMax": "Maximum 15 characters allowed.",
+	"registerValidationPasswordMin": "Minimum 8 characters required.",
+	"registerValidationFirstNameEmpty": "Please enter first name address.",
+	"registerValidationLastNameEmpty": "Please enter last name address.",
+	"registerValidationEmailEmpty": "Please enter email address.",
+	"registerValidationPasswordEmpty": "Please enter password.",
+	"loginValidationEmailEmpty": "Please enter email address.",
+	"loginValidationPasswordEmpty": "Please enter password.",
+	"loginValidationEmailEmail": "Please enter valid email address.",
+	"emailalreadyexists": "Email already exists.",
+	"userregistered": "User registered successfully",
+	"internalerror": "Internal server error. Please try again later",
+	"invalidcredentials": "Email or password is wrong.",
+	"userloggedin": "Welcome to bizkard.",
+	"invaliduser": "User does not exsists.",
+	"invalidToken": "Invalid token.",
+	"registerValidationFirstNameRequired": "registerValidationFirstNameRequired"
+}
