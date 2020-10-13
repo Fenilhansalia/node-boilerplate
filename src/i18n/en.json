@@ -16,7 +16,7 @@
 	"userregistered": "User registered successfully",
 	"internalerror": "Internal server error. Please try again later",
 	"invalidcredentials": "Email or password is wrong.",
-	"userloggedin": "Welcome to bizkard.",
+	"userloggedin": "Welcome.",
 	"invaliduser": "User does not exsists.",
 	"invalidToken": "Invalid token.",
 	"registerValidationFirstNameRequired": "registerValidationFirstNameRequired"
